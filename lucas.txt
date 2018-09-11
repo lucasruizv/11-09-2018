@@ -1,0 +1,13 @@
+lucas ruiz vieira 10/09/2018
+lucas ruiz vieira 11/09/2018
+git master <--------->E MEU PROJETO
+
+git pull origin master <-----------> PEGA MEU PROJETO NA NUVEM(GITHUB) E JOGA NO MEU PC
+
+git push origin master <-----------> PEGA MEU PROJETO QUE EU MODIFIQUEI E SALAVA NA NUVEM
+
+git add + NOME DO ARQUIVO = <------> ADICIONA MINHAS MODIFICAÇÕES NO GIT
+
+git commit -m"NOME PARA LEMBRAR QUANDO PRECISAR" <--------> COMENTA MINHAS MODIFICAÇÕES
+
+git init <----------->Para transformar o diretório atual em um repositório do Git.
